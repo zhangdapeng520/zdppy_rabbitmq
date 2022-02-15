@@ -131,6 +131,6 @@ dmypy.json
 **/.vscode
 **/__pycache__
 **/*.db
-consumer*
-producer*
-main.py
+/consumer*
+/producer*
+/main.py
